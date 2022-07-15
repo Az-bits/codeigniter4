@@ -1,0 +1,31 @@
+<?php
+return  [
+   'name' => 'Name',
+   'options' => 'Options',
+   'title' => 'Title',
+   'home' => 'Home',
+   'edit' => 'Edit',
+   'image' => 'Image',
+   'update' => 'Update',
+   'save' => 'Save',
+   'shopping' => 'Shopping',
+   'description' => 'Description',
+   'category' => 'Category',
+   'create' => 'Create',
+   'delete' => 'Delete',
+   'categories_list' => 'List of categories',
+   'movies_list' => 'List of movies',
+
+   'see_detail' => 'See detail',
+   'movie_create' => 'Create movie',
+   'movie_create_success' => 'Movie created successfully.',
+   'movie_update' => 'Update movie',
+   'movie_edit_success' => ' Sucessfully edited movie.',
+   'movie_edit_delete' => 'Movie deleted sucessfully.',
+   'image_delet_success' => 'Image deleted successfully.',
+
+   'category_create' => 'Create category',
+   'category_update' => 'Update category',
+   'category_edit_success' => 'Category updated.',
+   'category_edit_delete' => 'Category deleted.',
+];
